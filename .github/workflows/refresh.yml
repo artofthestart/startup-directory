@@ -21,8 +21,8 @@ jobs:
 
       - name: Regenerate from source
         env:
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL || 'https://cuucawpwswbzcbhjiylh.supabase.co' }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImN1dWNhd3B3c3diemNiaGppeWxoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE3MzMxNzcsImV4cCI6MjA5NzMwOTE3N30.fHHIbVgLC6Zgec1nK0MIPJdzN8kKMNcmkVprd9-ucfc' }}
           GITHUB_ORG: ${{ github.repository_owner }}
         run: node .github/scripts/generate.mjs --only=startup-directory
 
