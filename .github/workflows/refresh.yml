@@ -1,0 +1,39 @@
+name: Refresh directory
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Regenerate from source
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          GITHUB_ORG: ${{ github.repository_owner }}
+        run: node .github/scripts/generate.mjs --only=startup-directory
+
+      - name: Commit if the list changed
+        run: |
+          git config user.name  "aots-bot"
+          git config user.email "bot@artofthestart.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "Refresh directory ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "No changes."
+          fi

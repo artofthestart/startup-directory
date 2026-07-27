@@ -1,0 +1,283 @@
+{
+  "name": "Startup & Company Directory",
+  "description": "Written company profiles covering what each one does, where it is based, and how it got started.",
+  "source": "https://artofthestart.com",
+  "licence": "CC-BY-4.0",
+  "updated": "2026-07-27",
+  "count": 39,
+  "entries": [
+    {
+      "name": "4D Sight",
+      "description": "AI virtual advertising for live sport, esports, and streaming",
+      "category": "Other",
+      "website": "https://4dsight.com",
+      "profile": "https://artofthestart.com/business/4d-sight/"
+    },
+    {
+      "name": "7k Metals",
+      "description": "Membership-based marketplace for physical gold, silver, and digital precious-metals ownership.",
+      "category": "E-commerce",
+      "website": "https://7kmetals.com/",
+      "profile": "https://artofthestart.com/business/7k-metals/"
+    },
+    {
+      "name": "Anthropic",
+      "description": "AI safety company and maker of Claude",
+      "category": "Other",
+      "website": "https://www.anthropic.com/",
+      "profile": "https://artofthestart.com/business/anthropic/"
+    },
+    {
+      "name": "Apollo.io",
+      "description": "B2B sales intelligence and engagement platform",
+      "category": "Other",
+      "website": "https://www.apollo.io/",
+      "profile": "https://artofthestart.com/business/apollo-io/"
+    },
+    {
+      "name": "Ballerina Farm",
+      "description": "Pasture-raised meats and artisanal goods from a working Utah ranch",
+      "category": "Consumer",
+      "website": "https://ballerinafarm.com/",
+      "profile": "https://artofthestart.com/business/ballerina-farm/"
+    },
+    {
+      "name": "Canva",
+      "description": "Online graphic design and visual communication platform",
+      "category": "Other",
+      "website": "https://www.canva.com/",
+      "profile": "https://artofthestart.com/business/canva/"
+    },
+    {
+      "name": "Chamberlain Coffee",
+      "description": "Creator-led direct-to-consumer coffee",
+      "category": "Other",
+      "website": "https://chamberlaincoffee.com/",
+      "profile": "https://artofthestart.com/business/chamberlain-coffee/"
+    },
+    {
+      "name": "Cinderella Dress Rentals",
+      "description": "Affordable, modest formalwear for Kuna's big moments",
+      "category": "Consumer",
+      "website": "https://cinderelladressr208.wixsite.com/website",
+      "profile": "https://artofthestart.com/business/cinderella-dress-rentals/"
+    },
+    {
+      "name": "Cyera",
+      "description": "AI-era data security (DSPM)",
+      "category": "Other",
+      "website": "https://www.cyera.com",
+      "profile": "https://artofthestart.com/business/cyera/"
+    },
+    {
+      "name": "Databricks",
+      "description": "The data and AI company",
+      "category": "AI / ML",
+      "website": "https://www.databricks.com/",
+      "profile": "https://artofthestart.com/business/databricks/"
+    },
+    {
+      "name": "Etched",
+      "description": "Specialized AI inference chips valued at $10.3 billion",
+      "category": "Hardware",
+      "website": "https://www.etched.com/",
+      "profile": "https://artofthestart.com/business/etched/"
+    },
+    {
+      "name": "Faranak Executive Coaching",
+      "description": "Holistic life and executive coaching for Silicon Valley professionals",
+      "category": "Consumer",
+      "website": "https://faranak-firozan-coaching.webflow.io/",
+      "profile": "https://artofthestart.com/business/faranak-firozan-executive-coaching/"
+    },
+    {
+      "name": "General Intuition",
+      "description": "AI that learns to act from video games",
+      "category": "Other",
+      "website": "https://generalintuition.com",
+      "profile": "https://artofthestart.com/business/general-intuition/"
+    },
+    {
+      "name": "Ghosts.app",
+      "description": "A ghostwriter for everything you publish",
+      "category": "Other",
+      "website": "https://ghosts.app",
+      "profile": "https://artofthestart.com/business/ghosts/"
+    },
+    {
+      "name": "Grammarly",
+      "description": "AI writing assistant for grammar, clarity, and tone",
+      "category": "Other",
+      "website": "https://www.grammarly.com/",
+      "profile": "https://artofthestart.com/business/grammarly/"
+    },
+    {
+      "name": "Grandview Property Management",
+      "description": "Premium large-group cabins near Yellowstone's west gate",
+      "category": "Other",
+      "website": "https://grandviewprops.com",
+      "profile": "https://artofthestart.com/business/grandview-property-management/"
+    },
+    {
+      "name": "Impulse Space",
+      "description": "In-space transportation",
+      "category": "Other",
+      "website": "https://www.impulsespace.com",
+      "profile": "https://artofthestart.com/business/impulse-space/"
+    },
+    {
+      "name": "Intercom",
+      "description": "AI-first customer service platform behind the Fin agent",
+      "category": "Other",
+      "website": "https://www.intercom.com/",
+      "profile": "https://artofthestart.com/business/intercom/"
+    },
+    {
+      "name": "Jasper",
+      "description": "AI content platform for marketing teams",
+      "category": "Other",
+      "website": "https://www.jasper.ai/",
+      "profile": "https://artofthestart.com/business/jasper/"
+    },
+    {
+      "name": "Lovable",
+      "description": "The AI app builder that turned prompts into a $6.6B company",
+      "category": "Developer Tools",
+      "website": "https://lovable.dev/",
+      "profile": "https://artofthestart.com/business/lovable/"
+    },
+    {
+      "name": "Melaleuca, The Wellness Company",
+      "description": "The Wellness Company",
+      "category": "Consumer",
+      "website": "https://melaleuca.com/",
+      "profile": "https://artofthestart.com/business/melaleuca-the-wellness-company/"
+    },
+    {
+      "name": "n8n",
+      "description": "Fair-code workflow automation powering the AI agency boom",
+      "category": "Developer Tools",
+      "website": "https://n8n.io/",
+      "profile": "https://artofthestart.com/business/n8n/"
+    },
+    {
+      "name": "National Association of College and University Attorneys",
+      "description": "The home of higher education law",
+      "category": "Other",
+      "website": "https://www.nacua.org/",
+      "profile": "https://artofthestart.com/business/nacua/"
+    },
+    {
+      "name": "OpenAI",
+      "description": "Maker of ChatGPT and the GPT models",
+      "category": "Other",
+      "website": "https://openai.com/",
+      "profile": "https://artofthestart.com/business/openai/"
+    },
+    {
+      "name": "Otter.ai",
+      "description": "AI meeting transcription and notes",
+      "category": "Other",
+      "website": "https://otter.ai/",
+      "profile": "https://artofthestart.com/business/otter-ai/"
+    },
+    {
+      "name": "Peregrine Technologies",
+      "description": "AI govtech for public safety",
+      "category": "Other",
+      "website": "https://www.peregrine.io",
+      "profile": "https://artofthestart.com/business/peregrine/"
+    },
+    {
+      "name": "Political Potatoes",
+      "description": "Independent analysis of Idaho politics and policy",
+      "category": "Media & Creator",
+      "website": "https://politicalpotatoes.substack.com/",
+      "profile": "https://artofthestart.com/business/political-potatoes-idaho/"
+    },
+    {
+      "name": "Prometheus",
+      "description": "Bezos-backed physical AI",
+      "category": "Other",
+      "website": "https://www.prometheus.ai",
+      "profile": "https://artofthestart.com/business/prometheus/"
+    },
+    {
+      "name": "Range",
+      "description": "Compliance layer for stablecoin money movement",
+      "category": "Other",
+      "website": "https://www.range.org",
+      "profile": "https://artofthestart.com/business/range/"
+    },
+    {
+      "name": "Riverbend Ranch",
+      "description": "Premium Black Angus beef and elite cattle genetics from Idaho Falls, Idaho.",
+      "category": "Consumer",
+      "website": "https://www.riverbendranch.com/",
+      "profile": "https://artofthestart.com/business/riverbend-ranch-steaks/"
+    },
+    {
+      "name": "Snake River Strategies",
+      "description": "Reputation, search, and influence for the age of AI.",
+      "category": "Media & Creator",
+      "website": "https://www.snakeriverstrategies.com/",
+      "profile": "https://artofthestart.com/business/snake-river-strategies/"
+    },
+    {
+      "name": "SpaceX",
+      "description": "Space Exploration Technologies Corp.",
+      "category": "Other",
+      "website": "https://www.spacex.com/",
+      "profile": "https://artofthestart.com/business/spacex/"
+    },
+    {
+      "name": "State Street",
+      "description": "Custody bank and asset manager",
+      "category": "Other",
+      "website": "https://www.statestreet.com",
+      "profile": "https://artofthestart.com/business/state-street/"
+    },
+    {
+      "name": "Stripe",
+      "description": "Payments infrastructure for the internet",
+      "category": "Fintech",
+      "website": "https://stripe.com/",
+      "profile": "https://artofthestart.com/business/stripe/"
+    },
+    {
+      "name": "Studio MKBHD",
+      "description": "The studio behind the MKBHD technology-review brand",
+      "category": "Other",
+      "website": "https://mkbhd.com/",
+      "profile": "https://artofthestart.com/business/studio-mkbhd/"
+    },
+    {
+      "name": "Surfer SEO",
+      "description": "Content optimization and on-page SEO platform",
+      "category": "Other",
+      "website": "https://surferseo.com/",
+      "profile": "https://artofthestart.com/business/surfer-seo/"
+    },
+    {
+      "name": "Upscale AI",
+      "description": "Networking chips for AI data centers",
+      "category": "Other",
+      "website": "https://www.upscale.ai",
+      "profile": "https://artofthestart.com/business/upscale-ai/"
+    },
+    {
+      "name": "Vive Adolescent Care",
+      "description": "Residential mental health treatment for teens in St. George, Utah",
+      "category": "HealthTech",
+      "website": "https://www.vivetreatment.com/",
+      "profile": "https://artofthestart.com/business/vive-adolescent-care/"
+    },
+    {
+      "name": "Zapier",
+      "description": "No-code automation that connects thousands of apps",
+      "category": "Other",
+      "website": "https://zapier.com/",
+      "profile": "https://artofthestart.com/business/zapier/"
+    }
+  ]
+}
