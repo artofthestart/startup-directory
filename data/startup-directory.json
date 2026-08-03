@@ -3,8 +3,8 @@
   "description": "Written company profiles covering what each one does, where it is based, and how it got started.",
   "source": "https://artofthestart.com",
   "licence": "CC-BY-4.0",
-  "updated": "2026-07-27",
-  "count": 39,
+  "updated": "2026-08-03",
+  "count": 42,
   "entries": [
     {
       "name": "4D Sight",
@@ -54,6 +54,13 @@
       "category": "Other",
       "website": "https://chamberlaincoffee.com/",
       "profile": "https://artofthestart.com/business/chamberlain-coffee/"
+    },
+    {
+      "name": "ChatPRD",
+      "description": "The bootstrapped AI product manager that 100,000 PMs use, run by one human and nine agents",
+      "category": "SaaS",
+      "website": "https://www.chatprd.ai/",
+      "profile": "https://artofthestart.com/business/chatprd/"
     },
     {
       "name": "Cinderella Dress Rentals",
@@ -154,6 +161,13 @@
       "profile": "https://artofthestart.com/business/melaleuca-the-wellness-company/"
     },
     {
+      "name": "Moonshot AI",
+      "description": "The Beijing lab behind Kimi, the open-weight model family that reached the global frontier",
+      "category": "AI / ML",
+      "website": "https://www.moonshot.ai/",
+      "profile": "https://artofthestart.com/business/moonshot-ai/"
+    },
+    {
       "name": "n8n",
       "description": "Fair-code workflow automation powering the AI agency boom",
       "category": "Developer Tools",
@@ -166,6 +180,13 @@
       "category": "Other",
       "website": "https://www.nacua.org/",
       "profile": "https://artofthestart.com/business/nacua/"
+    },
+    {
+      "name": "Ollama",
+      "description": "The easiest way to run open-weight AI models on your own machine, used by 8.9 million developers a month",
+      "category": "Developer Tools",
+      "website": "https://ollama.com",
+      "profile": "https://artofthestart.com/business/ollama/"
     },
     {
       "name": "OpenAI",

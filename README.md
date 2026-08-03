@@ -2,7 +2,7 @@
 
 An open directory of startups and companies profiled by Art of the Startup. Each entry links to a full written profile rather than a database stub.
 
-**39 entries · updated 2026-07-27** · Browsable version: **[https://artofthestart.github.io/startup-directory/](https://artofthestart.github.io/startup-directory/)**
+**42 entries · updated 2026-08-03** · Browsable version: **[https://artofthestart.github.io/startup-directory/](https://artofthestart.github.io/startup-directory/)**
 
 > Written company profiles covering what each one does, where it is based, and how it got started.
 
@@ -21,7 +21,7 @@ not placement in this list or a position in the ordering.
 - [7](#7) (1)
 - [A](#a) (2)
 - [B](#b) (1)
-- [C](#c) (4)
+- [C](#c) (5)
 - [D](#d) (1)
 - [E](#e) (1)
 - [F](#f) (1)
@@ -29,9 +29,9 @@ not placement in this list or a position in the ordering.
 - [I](#i) (2)
 - [J](#j) (1)
 - [L](#l) (1)
-- [M](#m) (1)
+- [M](#m) (2)
 - [N](#n) (2)
-- [O](#o) (2)
+- [O](#o) (3)
 - [P](#p) (3)
 - [R](#r) (2)
 - [S](#s) (6)
@@ -72,6 +72,7 @@ not placement in this list or a position in the ordering.
 |---|---|---|---|
 | **[Canva](https://artofthestart.com/business/canva/)** | Online graphic design and visual communication platform | Sydney, New South Wales | [canva.com](https://www.canva.com/) |
 | **[Chamberlain Coffee](https://artofthestart.com/business/chamberlain-coffee/)** | Creator-led direct-to-consumer coffee | Los Angeles, California | [chamberlaincoffee.com](https://chamberlaincoffee.com/) |
+| **[ChatPRD](https://artofthestart.com/business/chatprd/)** | The bootstrapped AI product manager that 100,000 PMs use, run by one human and nine agents | San Francisco, CA | [chatprd.ai](https://www.chatprd.ai/) |
 | **[Cinderella Dress Rentals](https://artofthestart.com/business/cinderella-dress-rentals/)** | Affordable, modest formalwear for Kuna's big moments | Kuna, ID | [cinderelladressr208.wixsite.com](https://cinderelladressr208.wixsite.com/website) |
 | **[Cyera](https://artofthestart.com/business/cyera/)** | AI-era data security (DSPM) | New York, New York | [cyera.com](https://www.cyera.com) |
 
@@ -126,6 +127,7 @@ not placement in this list or a position in the ordering.
 | Company | What it does | Based in | Website |
 |---|---|---|---|
 | **[Melaleuca, The Wellness Company](https://artofthestart.com/business/melaleuca-the-wellness-company/)** | The Wellness Company | Idaho Falls, Idaho | [melaleuca.com](https://melaleuca.com/) |
+| **[Moonshot AI](https://artofthestart.com/business/moonshot-ai/)** | The Beijing lab behind Kimi, the open-weight model family that reached the global frontier | Beijing | [moonshot.ai](https://www.moonshot.ai/) |
 
 ### N
 
@@ -138,6 +140,7 @@ not placement in this list or a position in the ordering.
 
 | Company | What it does | Based in | Website |
 |---|---|---|---|
+| **[Ollama](https://artofthestart.com/business/ollama/)** | The easiest way to run open-weight AI models on your own machine, used by 8.9 million developers a month | San Francisco, CA | [ollama.com](https://ollama.com) |
 | **[OpenAI](https://artofthestart.com/business/openai/)** | Maker of ChatGPT and the GPT models | San Francisco, California | [openai.com](https://openai.com/) |
 | **[Otter.ai](https://artofthestart.com/business/otter-ai/)** | AI meeting transcription and notes | Mountain View, California | [otter.ai](https://otter.ai/) |
 
@@ -206,7 +209,7 @@ to Art of the Startup is all we ask.
 ## Other lists from Art of the Startup
 
 - [AI Tools Directory](https://github.com/artofthestart/ai-tools-directory) — 26 entries
-- [Founder & Operator Profiles](https://github.com/artofthestart/founder-profiles) — 29 entries
+- [Founder & Operator Profiles](https://github.com/artofthestart/founder-profiles) — 32 entries
 
 ## Corrections
 
