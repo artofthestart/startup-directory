@@ -2,7 +2,7 @@
 
 An open directory of startups and companies profiled by Art of the Startup. Each entry links to a full written profile rather than a database stub.
 
-**42 entries · updated 2026-08-03** · Browsable version: **[https://artofthestart.github.io/startup-directory/](https://artofthestart.github.io/startup-directory/)**
+**42 entries · updated 2026-08-10** · Browsable version: **[https://artofthestart.github.io/startup-directory/](https://artofthestart.github.io/startup-directory/)**
 
 > Written company profiles covering what each one does, where it is based, and how it got started.
 
